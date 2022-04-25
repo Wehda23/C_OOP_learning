@@ -4,6 +4,7 @@
     "system_error": "cpp",
     "xlocale": "cpp",
     "ostream": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "xmemory": "cpp"
   }
 }
