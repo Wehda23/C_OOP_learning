@@ -5,6 +5,7 @@
     "xlocale": "cpp",
     "ostream": "cpp",
     "iosfwd": "cpp",
-    "xmemory": "cpp"
+    "xmemory": "cpp",
+    "iostream": "cpp"
   }
 }
